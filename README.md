@@ -1,2 +1,2 @@
 # web-extension-template
-A webExtension template
+A webExtension template v1
